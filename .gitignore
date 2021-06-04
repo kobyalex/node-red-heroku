@@ -6,6 +6,5 @@
 .cache
 .forever
 .node-gyp
-node_modules
 .npm
 .profile
